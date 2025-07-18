@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👾 Hi! I'm Emmanuel Peñaflor!
 
-<!--
-**GDEmman/GDEmman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Game Developer with hands-on experience in building engaging 2D and casual games using tools like Unity and Cocos Creator. I specialize in gameplay mechanics, UI integration, and cross-platform deployment for both mobile and desktop. With a creative mindset and technical skills in C#, TypeScript, and JavaScript, I enjoy bringing interactive experiences to life.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Game Engines: **Unity**, **Cocos Creator**
+- Languages: **C#**, **TypeScript**, **JavaScript**
+- Tools: **Git**, **Figma**, **Photoshop**, **Trello**
+- Platforms: **Android**, **iOS**, **WebGL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 What I Love
+- Creating fun and intuitive gameplay
+- Solving real-time performance challenges
+- Collaborating with artists and designers
+- Learning new game technologies
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GDEmman&show_icons=true&theme=dark)
+
+Let's build something fun and unforgettable!
