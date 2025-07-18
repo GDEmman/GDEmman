@@ -1,4 +1,4 @@
-# 👾 Hi! I'm Emmanuel Peñaflor!
+# 👾 Hi! I'm Emman!
 
 I'm a passionate Game Developer with hands-on experience in building engaging 2D and casual games using tools like Unity and Cocos Creator. I specialize in gameplay mechanics, UI integration, and cross-platform deployment for both mobile and desktop. With a creative mindset and technical skills in C#, TypeScript, and JavaScript, I enjoy bringing interactive experiences to life.
 
