@@ -14,6 +14,6 @@ I'm a passionate Game Developer with hands-on experience in building engaging 2D
 - Collaborating with artists and designers
 - Learning new game technologies
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GDEmman&show_icons=true&theme=dark)
+[comment]: <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GDEmman&show_icons=true&theme=dark)>
 
 ## Let's build something fun and unforgettable!
